@@ -1,0 +1,22 @@
+uuid: c42931aa-ff6c-4206-ba9e-927469eaec67
+langcode: ja
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - marucha
+_core:
+  default_config_hash: kigu8pTxXt1qGR2NJ5HHdC4G2G1wsDrIjLPKBT5wUBc
+id: marucha_content
+theme: marucha
+region: my_content
+weight: -3
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: メインページコンテンツ
+  label_display: '0'
+  provider: system
+visibility: {  }

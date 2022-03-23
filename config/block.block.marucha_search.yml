@@ -1,0 +1,23 @@
+uuid: eedc524d-5c8d-4c9d-9ef9-2a5ec0301b79
+langcode: ja
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - marucha
+_core:
+  default_config_hash: jQ-C8l3dJPqYCGST1e-kSjR14PDP4wq-iFbp8dMFcRo
+id: marucha_search
+theme: marucha
+region: my_header
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 検索
+  label_display: visible
+  provider: search
+  page_id: node_search
+visibility: {  }

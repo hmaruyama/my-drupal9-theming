@@ -1,0 +1,13 @@
+uuid: 7eded3ee-e903-4491-b886-2d2a2b7181af
+langcode: ja
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: LhdsoZPL_pFas2fjaAWue4zvrQ_tEVofLYtcNec-JGM
+id: node_save_action
+label: コンテンツの保存
+type: node
+plugin: 'entity:save_action:node'
+configuration: {  }

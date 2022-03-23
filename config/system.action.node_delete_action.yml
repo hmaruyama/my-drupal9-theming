@@ -1,0 +1,13 @@
+uuid: fa89ab04-8092-48b2-986d-e281076cc7f3
+langcode: ja
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: t43OqwzP3CTbcAagSsWKNy6KwMm_zShXo3c4-So6rQg
+id: node_delete_action
+label: コンテンツを削除
+type: node
+plugin: 'entity:delete_action:node'
+configuration: {  }

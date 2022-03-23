@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: ja
+uuid: 71aea40e-ea8a-4c3a-b19a-21c302066b3b
+name: 'Drupal テーマ開発入門講座'
+mail: example@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: ja

@@ -1,0 +1,25 @@
+uuid: 15e6c12e-7e67-4f05-bfbc-984e72f7d997
+langcode: ja
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.page
+  module:
+    - text
+_core:
+  default_config_hash: KgVkxLl_K3E3lvN6CEoWQIDT0V8J4Mv-fVYrAIc7-FE
+id: node.page.body
+field_name: body
+entity_type: node
+bundle: page
+label: 本文
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

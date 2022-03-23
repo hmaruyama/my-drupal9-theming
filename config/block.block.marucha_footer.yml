@@ -1,0 +1,27 @@
+uuid: bd87658e-522a-4822-8c36-5c45eb9fa764
+langcode: ja
+status: true
+dependencies:
+  config:
+    - system.menu.footer
+  module:
+    - system
+  theme:
+    - marucha
+_core:
+  default_config_hash: pnCK21YFjH7iB4XDeokSq3N3XSr6qX8BsqMs9nmip6E
+id: marucha_footer
+theme: marucha
+region: my_footer
+weight: -5
+provider: null
+plugin: 'system_menu_block:footer'
+settings:
+  id: 'system_menu_block:footer'
+  label: フッターメニュー
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

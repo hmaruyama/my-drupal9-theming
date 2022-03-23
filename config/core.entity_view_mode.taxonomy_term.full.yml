@@ -1,0 +1,12 @@
+uuid: 0081fe01-fa6d-4271-a528-35b113ff38f2
+langcode: ja
+status: true
+dependencies:
+  module:
+    - taxonomy
+_core:
+  default_config_hash: '-PPKjsNQPvoIDjOuUAvlLocYD976MNjb9Zpgyz5_BWE'
+id: taxonomy_term.full
+label: タクソノミータームのページ
+targetEntityType: taxonomy_term
+cache: true

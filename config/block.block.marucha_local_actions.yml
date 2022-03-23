@@ -1,0 +1,20 @@
+uuid: 165b24ff-bf2e-46d5-a248-e8c27240efd0
+langcode: ja
+status: true
+dependencies:
+  theme:
+    - marucha
+_core:
+  default_config_hash: XRdb8LpbArVA6CpuuEZxzi50JIdjsJaCCZ5o3fH0Blk
+id: marucha_local_actions
+theme: marucha
+region: my_content
+weight: -2
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: プライマリ管理アクション
+  label_display: '0'
+  provider: core
+visibility: {  }
