@@ -1,0 +1,5 @@
+<?php
+
+function marucha_preprocess_node(&$variables) {
+  $variables['hoge'] = 'fuga';
+}
