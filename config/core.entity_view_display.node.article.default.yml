@@ -1,4 +1,4 @@
-uuid: 422fd00b-b39e-4947-b099-bb0e69f3ff11
+uuid: cad561e8-9e20-483a-b94b-8a0da206a340
 langcode: ja
 status: true
 dependencies:
@@ -8,11 +8,11 @@ dependencies:
     - field.field.node.article.comment
     - field.field.node.article.field_image
     - field.field.node.article.field_tags
-    - image.style.large
     - node.type.article
+    - responsive_image.styles.article_image
   module:
     - comment
-    - image
+    - responsive_image
     - text
     - user
 _core:
@@ -39,11 +39,11 @@ content:
     weight: 110
     region: content
   field_image:
-    type: image
+    type: responsive_image
     label: hidden
     settings:
+      responsive_image_style: article_image
       image_link: ''
-      image_style: large
     third_party_settings: {  }
     weight: -1
     region: content

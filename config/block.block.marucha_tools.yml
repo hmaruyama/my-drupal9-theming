@@ -1,4 +1,4 @@
-uuid: 68adc0eb-1ab9-4814-a5dd-2f8b0d0079b7
+uuid: 78812e7f-ba05-4be9-a6cc-72e0378e2a36
 langcode: ja
 status: true
 dependencies:
@@ -12,7 +12,7 @@ _core:
   default_config_hash: TszJ7dH_11Qjmo_OpMzqznaED4Bvy1XfVnBzTC9LZXE
 id: marucha_tools
 theme: marucha
-region: my_header
+region: sidebar_first
 weight: 0
 provider: null
 plugin: 'system_menu_block:tools'

@@ -1,9 +1,9 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: ja
-uuid: 71aea40e-ea8a-4c3a-b19a-21c302066b3b
+uuid: f41bf30c-4929-4488-b9b7-aec4f1f0b0ac
 name: 'Drupal テーマ開発入門講座'
-mail: example@example.com
+mail: admin@example.com
 slogan: ''
 page:
   403: ''

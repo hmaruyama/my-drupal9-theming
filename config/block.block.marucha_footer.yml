@@ -1,4 +1,4 @@
-uuid: bd87658e-522a-4822-8c36-5c45eb9fa764
+uuid: c1a22139-731b-46b9-9d17-f378218c423a
 langcode: ja
 status: true
 dependencies:
@@ -12,8 +12,8 @@ _core:
   default_config_hash: pnCK21YFjH7iB4XDeokSq3N3XSr6qX8BsqMs9nmip6E
 id: marucha_footer
 theme: marucha
-region: my_footer
-weight: -5
+region: footer_fifth
+weight: 0
 provider: null
 plugin: 'system_menu_block:footer'
 settings:

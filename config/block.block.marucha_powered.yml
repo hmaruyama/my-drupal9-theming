@@ -1,4 +1,4 @@
-uuid: b4008052-360b-4f57-a820-709e5b73d911
+uuid: d233a6f9-de08-4ab3-b1e1-b8220e4e61b0
 langcode: ja
 status: true
 dependencies:
@@ -10,8 +10,8 @@ _core:
   default_config_hash: I6Esh8cDlPdl2POZg4MOSRUrQNYA1UNCJCxL2yqT_wc
 id: marucha_powered
 theme: marucha
-region: my_footer
-weight: -6
+region: footer_fifth
+weight: 10
 provider: null
 plugin: system_powered_by_block
 settings:

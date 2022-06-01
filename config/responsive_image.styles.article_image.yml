@@ -1,0 +1,30 @@
+uuid: 8016c12e-4cf9-4cf9-9c85-e0042c723bcb
+langcode: ja
+status: true
+dependencies:
+  config:
+    - image.style.large
+    - image.style.medium
+    - image.style.thumbnail
+  theme:
+    - marucha
+id: article_image
+label: 'Article Image'
+image_style_mappings:
+  -
+    image_mapping_type: image_style
+    image_mapping: large
+    breakpoint_id: bartik.wide
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: medium
+    breakpoint_id: bartik.narrow
+    multiplier: 1x
+  -
+    image_mapping_type: image_style
+    image_mapping: thumbnail
+    breakpoint_id: bartik.mobile
+    multiplier: 1x
+breakpoint_group: marucha
+fallback_image_style: medium

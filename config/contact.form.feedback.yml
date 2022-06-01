@@ -1,4 +1,4 @@
-uuid: b6056292-49eb-401b-9b84-d627d1465e5b
+uuid: 96014e69-840a-40f8-b270-32ced7d0df97
 langcode: ja
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: ウェブサイトフィードバック
 recipients:
-  - example@example.com
+  - admin@example.com
 reply: ''
 weight: 0
 message: メッセージは送信されました

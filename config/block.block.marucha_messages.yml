@@ -1,4 +1,4 @@
-uuid: b1877941-25df-4cc1-a6a3-95ba9efe02f4
+uuid: 33fd45db-3e17-4c26-aede-eccc6e59990e
 langcode: ja
 status: true
 dependencies:
@@ -10,7 +10,7 @@ _core:
   default_config_hash: KC12e0aosUnBBs5bd374JVcQjJaFNOSIHzu0dUGf22o
 id: marucha_messages
 theme: marucha
-region: my_header
+region: highlighted
 weight: 0
 provider: null
 plugin: system_messages_block

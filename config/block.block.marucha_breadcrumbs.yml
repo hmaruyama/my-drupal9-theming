@@ -1,4 +1,4 @@
-uuid: 5935ce0e-9611-452b-829f-b9eb8981f7c2
+uuid: f96ac70c-b28a-4f56-bf89-697bc9eafb34
 langcode: ja
 status: true
 dependencies:
@@ -10,7 +10,7 @@ _core:
   default_config_hash: y0bXRvKYQQKkf_RVxA3aOPGpIfKKsDOzzrWYCgjxJ9Y
 id: marucha_breadcrumbs
 theme: marucha
-region: my_header
+region: breadcrumb
 weight: 0
 provider: null
 plugin: system_breadcrumb_block

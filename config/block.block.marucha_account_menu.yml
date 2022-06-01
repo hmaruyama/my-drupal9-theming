@@ -1,6 +1,6 @@
-uuid: fef37010-5840-4899-bd8e-4c70cd1e72f3
+uuid: aeaa5cba-ed19-4312-aff8-d7a86a4b7e67
 langcode: ja
-status: false
+status: true
 dependencies:
   config:
     - system.menu.account
@@ -12,7 +12,7 @@ _core:
   default_config_hash: jzu74Q7R0QWgw8IniA9HZRSb_a8RPak1M0q5J-VGkZI
 id: marucha_account_menu
 theme: marucha
-region: my_header
+region: secondary_menu
 weight: 0
 provider: null
 plugin: 'system_menu_block:account'

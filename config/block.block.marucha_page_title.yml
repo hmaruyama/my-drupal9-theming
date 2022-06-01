@@ -1,4 +1,4 @@
-uuid: 1a49d599-5665-4c06-a3e9-1d687f6d3329
+uuid: 5fcf337c-2b83-4b3d-baff-cba4b5c0a314
 langcode: ja
 status: true
 dependencies:
@@ -8,8 +8,8 @@ _core:
   default_config_hash: ItFhhiUOoeR7oIq73ZaCV7PAYrOwXZ-9fazMzF5DJXM
 id: marucha_page_title
 theme: marucha
-region: my_content
-weight: -6
+region: content
+weight: -50
 provider: null
 plugin: page_title_block
 settings:

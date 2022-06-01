@@ -1,4 +1,4 @@
-uuid: 165b24ff-bf2e-46d5-a248-e8c27240efd0
+uuid: 603c9d91-2b8a-4ef9-88f4-c55152e2592c
 langcode: ja
 status: true
 dependencies:
@@ -8,8 +8,8 @@ _core:
   default_config_hash: XRdb8LpbArVA6CpuuEZxzi50JIdjsJaCCZ5o3fH0Blk
 id: marucha_local_actions
 theme: marucha
-region: my_content
-weight: -2
+region: content
+weight: -20
 provider: null
 plugin: local_actions_block
 settings:

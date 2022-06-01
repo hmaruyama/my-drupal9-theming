@@ -1,4 +1,4 @@
-uuid: c42931aa-ff6c-4206-ba9e-927469eaec67
+uuid: 9fb0c377-de0c-4e17-9da0-4dcdccd162d0
 langcode: ja
 status: true
 dependencies:
@@ -10,8 +10,8 @@ _core:
   default_config_hash: kigu8pTxXt1qGR2NJ5HHdC4G2G1wsDrIjLPKBT5wUBc
 id: marucha_content
 theme: marucha
-region: my_content
-weight: -3
+region: content
+weight: 0
 provider: null
 plugin: system_main_block
 settings:

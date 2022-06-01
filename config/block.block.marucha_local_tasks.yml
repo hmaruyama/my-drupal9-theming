@@ -1,4 +1,4 @@
-uuid: 1e3ca23f-c6b8-4db5-bba7-a09ad98f45fb
+uuid: 9a7b7065-3596-4f33-8e15-662f730d34f1
 langcode: ja
 status: true
 dependencies:
@@ -8,8 +8,8 @@ _core:
   default_config_hash: Qf2BoIzd9py5AYXZj8fJzCYDyVk1-AWXcu-AqQeDZKA
 id: marucha_local_tasks
 theme: marucha
-region: my_content
-weight: -5
+region: content
+weight: -40
 provider: null
 plugin: local_tasks_block
 settings:
