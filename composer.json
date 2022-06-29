@@ -17,10 +17,13 @@
     "require": {
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^3.1",
+        "drupal/bootstrap_barrio": "^5.5",
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
+        "drupal/d8w3css": "^2.0",
         "drupal/devel": "^4.1",
+        "drupal/tara": "^8.3",
         "drush/drush": "^11.0",
         "kint-php/kint": "^4.1"
     },
